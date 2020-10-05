@@ -1,5 +1,5 @@
 # Chiesa di Santa Maria a Marciano
-### Sito di interessa storico nazionale. Piana di Monte Verna
+### Sito di interesse storico nazionale. Piana di Monte Verna
 #### Repository non ufficiale per il recupero e la divulgazione.
 
 ![](https://github.com/sdimaio/santamariamarciano/blob/main/piana-di-monte-verna-chiesa-s.-maria-marciano.jpg)
