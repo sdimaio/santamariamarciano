@@ -14,27 +14,25 @@
 [TOC]
 
 
-#### Unordered list (plus sign and nested)
-                
-.
-+ santamariamarciano
-  + documenti 
-    + analisi        
-      + gis
-      + umidita
-        + foto
-            + 20200919
-              * libro
-            + 20201003
-        + meeting_report
-          * tesi
-    * architettura
-  + src
-    + arduino-DHT
-      + examples
-        * DHT_Test
+#### santamariamarciano
 
-16 directories
+    +-- documenti
+        +-- analisi
+            +-- gis
+            +-- umidita
+                +-- foto
+                    +-- 20200919
+                        +-- libro
+                    +-- 20201003
+                +-- meeting_report
+                +-- tesi
+        +-- architettura
+    +-- src
+        +-- arduino-DHT
+            +-- examples
+                +-- DHT_Test
+
+
 
 ### Links
 
