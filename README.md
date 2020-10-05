@@ -13,6 +13,29 @@
 
 [TOC]
 
+
+#### Unordered list (plus sign and nested)
+                
+.
++ santamariamarciano
+  + documenti 
+    + analisi        
+      + gis
+      + umidita
+        + foto
+            + 20200919
+              * libro
+            + 20201003
+        + meeting_report
+          * tesi
+    * architettura
+  + src
+    + arduino-DHT
+      + examples
+        * DHT_Test
+
+16 directories
+
 ### Links
 
 `<link>` : <https://it.wikipedia.org/wiki/Santa_Maria_a_Marciano>
