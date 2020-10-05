@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/stars/santamariamarciano/editor.md.svg) ![](https://img.shields.io/github/forks/santamariamarciano/editor.md.svg) ![](https://img.shields.io/github/tag/santamariamarciano/editor.md.svg) ![](https://img.shields.io/github/release/santamariamarciano/editor.md.svg) ![](https://img.shields.io/github/issues/santamariamarciano/editor.md.svg) ![](https://img.shields.io/santamariamarciano/v/editor.md.svg)
 
 
-**Table of Contents**
+**Table of Contents (contenuti)**
 
 [TOCM]
 
