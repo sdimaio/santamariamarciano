@@ -25,3 +25,6 @@ Chiesa e culto|Santa Maria a Marciano
 Stato|[Italia](https://it.wikipedia.org/wiki/Italia)
 Regione|[Campania](https://it.wikipedia.org/wiki/Campania)
 Località| [Piana di Monte Verna](https://wiki/Piana_di_Monte_Verna)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk2MjA3NjIzNF19
+-->
